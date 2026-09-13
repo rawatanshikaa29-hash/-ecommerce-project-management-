@@ -28,9 +28,6 @@ methodology, along with building a Power BI dashboard to track progress.
 4. Designed a Power BI dashboard to visualize sprint progress and delays
 5. Handled a mid-sprint delay by evaluating trade-offs and adjusting scope
 
-## Dashboard Preview
-(Insert screenshot image here)
-
 ## Key Learnings
 Practical exposure to project planning, sprint management, task tracking, 
 and data-driven decision making using Power BI.
